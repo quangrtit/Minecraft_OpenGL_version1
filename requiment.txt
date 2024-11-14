@@ -1,0 +1,7 @@
+https://glad.dav1d.de/
+sudo apt-get install mesa-common-dev libgl-dev libglfw3-dev
+g++ -o my_game main.cpp ../glad/glad.c -lglfw -lGL -ldl -I../glad -I/usr/include
+
+
+sudo apt install libglm-dev
+g++ -o learn learn.cpp -lGLEW -lglfw -lGL

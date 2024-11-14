@@ -1,0 +1,47 @@
+[
+{
+  "directory": "/home/quangai/my_project/GAME/build",
+  "command": "/usr/bin/g++  -I/home/quangai/my_project/GAME/src -I/home/quangai/my_project/GAME/library/stb -g -std=gnu++11 -o CMakeFiles/game.dir/src/main.cpp.o -c /home/quangai/my_project/GAME/src/main.cpp",
+  "file": "/home/quangai/my_project/GAME/src/main.cpp"
+},
+{
+  "directory": "/home/quangai/my_project/GAME/build",
+  "command": "/usr/bin/g++  -I/home/quangai/my_project/GAME/src -I/home/quangai/my_project/GAME/library/stb -g -std=gnu++11 -o CMakeFiles/game.dir/src/shaderClass.cpp.o -c /home/quangai/my_project/GAME/src/shaderClass.cpp",
+  "file": "/home/quangai/my_project/GAME/src/shaderClass.cpp"
+},
+{
+  "directory": "/home/quangai/my_project/GAME/build",
+  "command": "/usr/bin/g++  -I/home/quangai/my_project/GAME/src -I/home/quangai/my_project/GAME/library/stb -g -std=gnu++11 -o CMakeFiles/game.dir/src/VAO.cpp.o -c /home/quangai/my_project/GAME/src/VAO.cpp",
+  "file": "/home/quangai/my_project/GAME/src/VAO.cpp"
+},
+{
+  "directory": "/home/quangai/my_project/GAME/build",
+  "command": "/usr/bin/g++  -I/home/quangai/my_project/GAME/src -I/home/quangai/my_project/GAME/library/stb -g -std=gnu++11 -o CMakeFiles/game.dir/src/VBO.cpp.o -c /home/quangai/my_project/GAME/src/VBO.cpp",
+  "file": "/home/quangai/my_project/GAME/src/VBO.cpp"
+},
+{
+  "directory": "/home/quangai/my_project/GAME/build",
+  "command": "/usr/bin/g++  -I/home/quangai/my_project/GAME/src -I/home/quangai/my_project/GAME/library/stb -g -std=gnu++11 -o CMakeFiles/game.dir/src/EBO.cpp.o -c /home/quangai/my_project/GAME/src/EBO.cpp",
+  "file": "/home/quangai/my_project/GAME/src/EBO.cpp"
+},
+{
+  "directory": "/home/quangai/my_project/GAME/build",
+  "command": "/usr/bin/g++  -I/home/quangai/my_project/GAME/src -I/home/quangai/my_project/GAME/library/stb -g -std=gnu++11 -o CMakeFiles/game.dir/src/Camera.cpp.o -c /home/quangai/my_project/GAME/src/Camera.cpp",
+  "file": "/home/quangai/my_project/GAME/src/Camera.cpp"
+},
+{
+  "directory": "/home/quangai/my_project/GAME/build",
+  "command": "/usr/bin/g++  -I/home/quangai/my_project/GAME/src -I/home/quangai/my_project/GAME/library/stb -g -std=gnu++11 -o CMakeFiles/game.dir/src/Texture.cpp.o -c /home/quangai/my_project/GAME/src/Texture.cpp",
+  "file": "/home/quangai/my_project/GAME/src/Texture.cpp"
+},
+{
+  "directory": "/home/quangai/my_project/GAME/build",
+  "command": "/usr/bin/g++  -I/home/quangai/my_project/GAME/src -I/home/quangai/my_project/GAME/library/stb -g -std=gnu++11 -o CMakeFiles/game.dir/src/Mesh.cpp.o -c /home/quangai/my_project/GAME/src/Mesh.cpp",
+  "file": "/home/quangai/my_project/GAME/src/Mesh.cpp"
+},
+{
+  "directory": "/home/quangai/my_project/GAME/build",
+  "command": "/usr/bin/g++  -I/home/quangai/my_project/GAME/src -I/home/quangai/my_project/GAME/library/stb -g -std=gnu++11 -o CMakeFiles/game.dir/src/stb.cpp.o -c /home/quangai/my_project/GAME/src/stb.cpp",
+  "file": "/home/quangai/my_project/GAME/src/stb.cpp"
+}
+]

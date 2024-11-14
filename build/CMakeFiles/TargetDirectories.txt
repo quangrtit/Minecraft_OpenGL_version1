@@ -1,0 +1,3 @@
+/home/quangai/my_project/GAME/build/CMakeFiles/game.dir
+/home/quangai/my_project/GAME/build/CMakeFiles/edit_cache.dir
+/home/quangai/my_project/GAME/build/CMakeFiles/rebuild_cache.dir
